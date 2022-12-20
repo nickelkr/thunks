@@ -18,4 +18,5 @@
   }
 </script>
 
+<h1>Thunks.io</h1>
 <div contenteditable="true" bind:innerHTML={scratch} on:keyup={() => debounce() }></div>
