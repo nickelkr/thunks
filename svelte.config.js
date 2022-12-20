@@ -15,7 +15,7 @@ const config = {
       assets: "docs"
     }),
     paths: {
-      base: dev ?  "/" : "/thunks",
+      base: dev ?  "/" : "/",
     },
 	}
 };
